@@ -1,7 +1,7 @@
 - � Hi, I’m @h-m-m-m (this name is a pain im sorry)
 - � I’m interested in mcbe "utilities"
 - � I’m currently learning renderdragon bloat
-- � I’m looking to collaborate on making gamer chair.dll
+- � I’m looking to collaborate on making client
 - � How to reach me: discord hmmm#9008
 
 <!---

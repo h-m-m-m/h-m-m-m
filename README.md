@@ -1,8 +1,6 @@
 - � Hi, I’m @h-m-m-m (this name is a pain im sorry)
 - � I’m interested in mcbe "utilities"
 - � I’m currently learning renderdragon bloat
-- � I’m looking to collaborate on making client
-- � How to reach me: discord hmmm#9008
 
 <!---
 h-m-m-m/h-m-m-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
